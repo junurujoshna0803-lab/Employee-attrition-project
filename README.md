@@ -191,7 +191,7 @@ Employee_Attrition_Analysis.ipynb
 
 GitHub: https://github.com/junurujoshna0803-lab
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: http://linkedin.com/in/junuru-joshna-a1ba01314
 
 ---
 
